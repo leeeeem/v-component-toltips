@@ -40,10 +40,10 @@ Example: Different usage of content
 | show-delay  | Number | The seconds before showing the tag | 0 | - |
 | hide-delay  | Number | The seconds before hiding the tag | 0 | - |
 | disabled  | Boolean | For controlling the tag show or not | false |true, false |
-| text-color  | String | The color of main text after hovering | "rgba(255, 255, 255, 1)" | rgba, rgb, binary color |
-| box-color  | String | The color of main box border after hovering | "rgba(196, 196, 196, 1)" | rgba, rgb, binary color |
+| text-color  | String | The color of main text after hovering | rgba(255, 255, 255, 1) | rgba, rgb, binary color |
+| box-color  | String | The color of main box border after hovering | rgba(196, 196, 196, 1) | rgba, rgb, binary color |
 | duration | Number | The duration of completing the transition function | 0.2 | - |
-| transition-function  | String | The time function of transition  | "ease-in" | - |
+| transition-function  | String | The time function of transition  | ease-in | - |
 
 
 ## Events
