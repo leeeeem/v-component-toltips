@@ -1,5 +1,5 @@
-#v-component-tooltips
----
+# v-component-tooltips
+
 A vue tooltips component
 
 ## Getting Started
@@ -30,7 +30,7 @@ Example: Different usage of content
 ```
 
 
-##Properties
+## Properties
 |  Name   | Type  | Description  | Default  | Value  |
 |  :----:  | :----:  | :----  | :----:  | :----:  |
 | placement  | String | The position of the Tooltips tag show, it could be 12 different directions | bottom | 'bottom', 'top', 'right', 'left', 'top-right', 'top-left', 'right-top', 'right-bottom', 'bottom-left', 'bottom-right', 'left-top', 'left-bottom' |
@@ -46,14 +46,14 @@ Example: Different usage of content
 | transition-function  | String | The time function of transition  | "ease-in" | - |
 
 
-##Events
+## Events
 |  Name   | Type  | Description  | Default  | Value  |
 |  :----:  | :----:  | :----  | :----:  | :----:  |
 | onPopperOpen  | Function | Triggered when the mouse is hover into the main area | - | - |
 | onPopperClose  | Function | Triggered when the mouse leave the main area  | - | - |
 
 
-##How to use(simple-examples)
+## How to use(simple-examples)
 
 >offset
 ```
