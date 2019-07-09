@@ -65,11 +65,11 @@
             },
             textColor: {
                 type: String,
-                default: "rgba(255, 255, 255, 1)"
+                default: "#66009D"
             },
             boxColor: {
                 type: String,
-                default: "rgba(196, 196, 196, 1)"
+                default: "#7700BB"
             }
         },
         methods: {
