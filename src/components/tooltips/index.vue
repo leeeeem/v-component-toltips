@@ -18,7 +18,7 @@
         name: 'Tooltips',
         data() {
             return {
-                changeColorTrigger: true,
+                changeColorTrigger: false,
                 visible: false,
                 timeoutId: null
             }
@@ -94,7 +94,7 @@
         computed: {
             boxStyle() {
                 if (this.changeColorTrigger === true) {
-                    return `border: 1px solid ${this.boxColor}; color: ${this.boxColor};`
+                    return `border: 1px solid ${this.boxColor}; color: ${this.textColor};`
                 } else {
                     return ''
                 }
@@ -156,6 +156,7 @@
     .tooltips {
         position: relative;
         display: inline-block;
+        color: rgba(255, 255, 255, 1);
         border-radius: 5px;
         border: 1px solid rgba(196, 196, 196, 1);
 
