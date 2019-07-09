@@ -1,4 +1,4 @@
-#v-component-tooltips
+# v-component-tooltips
 ---
 A vue tooltips component
 
@@ -30,7 +30,7 @@ Example: Different usage of content
 ```
 
 
-##Properties
+## Properties
 
 |  Name   | Type  | Description  | Default  | Value  |
 |  :----:  | :----:  | :----  | :----:  | :----:  |
@@ -54,7 +54,7 @@ Example: Different usage of content
 | onPopperClose  | Function | Triggered when the mouse leave the main area  | - | - |
 
 
-##How to use(simple-examples)
+## How to use(simple-examples)
 
 >offset
 ```
