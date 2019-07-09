@@ -5,7 +5,7 @@
     "webpack-cli": "^3.3.5"
   },
   "name": "v-component-tooltips",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "a simple vue tooltips component",
   "main": "dist/index.js",
   "directories": {
@@ -36,7 +36,6 @@
     "vue-style-loader": "^3.0.3",
     "vue-template-compiler": "^2.5.9",
     "vuex": "^3.0.1",
-    "webpack": "^4.35.2",
     "webpack-dev-server": "^2.9.5"
   },
   "scripts": {
