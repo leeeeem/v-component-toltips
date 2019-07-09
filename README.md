@@ -1,5 +1,5 @@
 # v-component-tooltips
----
+
 A vue tooltips component
 
 ## Getting Started
