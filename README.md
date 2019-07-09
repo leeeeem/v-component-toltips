@@ -46,7 +46,7 @@ Example: Different usage of content
 | transition-function  | String | The time function of transition  | "ease-in" | - |
 
 
-##Events
+## Events
 |  Name   | Type  | Description  | Default  | Value  |
 |  :----:  | :----:  | :----  | :----:  | :----:  |
 | onPopperOpen  | Function | Triggered when the mouse is hover into the main area | - | - |
