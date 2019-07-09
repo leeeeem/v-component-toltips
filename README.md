@@ -31,6 +31,7 @@ Example: Different usage of content
 
 
 ##Properties
+
 |  Name   | Type  | Description  | Default  | Value  |
 |  :----:  | :----:  | :----  | :----:  | :----:  |
 | placement  | String | The position of the Tooltips tag show, it could be 12 different directions | bottom | 'bottom', 'top', 'right', 'left', 'top-right', 'top-left', 'right-top', 'right-bottom', 'bottom-left', 'bottom-right', 'left-top', 'left-bottom' |
