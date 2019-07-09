@@ -156,7 +156,6 @@
     .tooltips {
         position: relative;
         display: inline-block;
-        color: rgba(255, 255, 255, 1);
         border-radius: 5px;
         border: 1px solid rgba(196, 196, 196, 1);
 
