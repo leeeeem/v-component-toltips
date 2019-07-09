@@ -1,0 +1,9 @@
+
+*.md
+*.yml
+build/
+node_modules/
+test/
+.DS_Store
+.idea
+.npmignore
